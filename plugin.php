@@ -1,7 +1,7 @@
 <?php namespace UpperCodShortCodeData;
 
 /**
- * Plugin Name:       UpperCod - Oxygen RegExp.
+ * Plugin Name:       UpperCod - Oxygen RegExp
  * Plugin URI:        http://github.com/uppercod/wp-uppercod-oxygen-regexp
  * Description:       Modify expressions to invoke custom tag and custom classes
  * Version:           1.0.0
