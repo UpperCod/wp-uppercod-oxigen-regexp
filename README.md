@@ -2,8 +2,13 @@
 
 This plugin modifies the expressions and validations applied by oxygen by defining:
 
-1. custom tags: In order to allow the use of webcomponents.
-2. custom class names: In order to allow defining syntax outside the standard, example Tailwind and others.
+**custom tags**: In order to allow the use of webcomponents.
+
+![preview](https://i.ibb.co/yQJ1S9q/view-custom-tag.png)
+
+**custom class names**: In order to allow defining syntax outside the standard, example Tailwind and others.
+
+![preview](https://i.ibb.co/crH8k82/custom-class-name.png)
 
 ## Installation
 

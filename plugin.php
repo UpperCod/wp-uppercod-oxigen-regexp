@@ -15,5 +15,5 @@
 defined("ABSPATH") || exit;
 
 add_action("oxygen_enqueue_iframe_scripts", function () {
-    wp_enqueue_script("oxygen-regexp", plugin_dir_url(__FILE__) . "iframe.js", ["oxygen-aos"], null, true);
+    wp_enqueue_script("oxygen-regexp", plugin_dir_url(__FILE__) . "src/iframe.js", ["oxygen-aos"], null, true);
 });
